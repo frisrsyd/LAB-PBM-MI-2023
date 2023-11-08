@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Account App</string>
+    <string name="text_register">Register</string>
+    <string name="text_dont_have_account">Dont Have Account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_already_have_account">Already have account?</string>
+    <string name="text_login">Login</string>
+    <string name="name">Faris rasyid</string>
+    <string name="email">frisrsyd@gmail.com</string>
+    <string name="logout">Logout</string>
+    <string name="ini_adalah_halaman_home">Ini adalah halaman Home</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="inbox">Inbox</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="inbox_fragment">Inbox Fragment</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="img_desc">Gambar Materi</string>
+    <string name="title_materi">Judul Materi</string>
+    <string name="status_materi">Status Materi</string>
+    <string name="chapters_materi">banyak chapter</string>
+    <string name="level_materi">level materi</string>
+    <string name="desc_materi">Deskripsi materi</string>
+
+    <string-array name="data_title">
+        <item>Intro To Coding</item>
+        <item>HTML Dasar</item>
+        <item>CSS Dasar</item>
+        <item>JavaScript Dasar</item>
+        <item>JavaScript Intermediate</item>
+        <item>Git dan Github Dasar</item>
+        <item>Python Dasar</item>
+        <item>Python Lanjutan</item>
+        <item>Algorithm &amp; Data Structures with Python</item>
+        <item>Animasi Dasar 3D</item>
+    </string-array>
+    <string-array name="data_status">
+        <item>Unstarted</item>
+        <item>On going</item>
+        <item>Completed</item>
+        <item>Unstarted</item>
+        <item>On going</item>
+        <item>Completed</item>
+        <item>Unstarted</item>
+        <item>On going</item>
+        <item>Completed</item>
+        <item>Completed</item>
+    </string-array>
+    <string-array name="data_level">
+        <item>Beginner</item>
+        <item>Beginner</item>
+        <item>Beginner</item>
+        <item>Beginner</item>
+        <item>Medium</item>
+        <item>Beginner</item>
+        <item>Beginner</item>
+        <item>Medium</item>
+        <item>Medium</item>
+        <item>Beginner</item>
+    </string-array>
+    <string-array name="data_chapters">
+        <item>3 Modul</item>
+        <item>7 Modul</item>
+        <item>7 Modul</item>
+        <item>11 Modul</item>
+        <item>11 Modul</item>
+        <item>5 Modul</item>
+        <item>11 Modul</item>
+        <item>6 Modul</item>
+        <item>6 Modul</item>
+        <item>6 Modul</item>
+    </string-array>
+    <string-array name="data_img">
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/intro-to-coding-1626243909763.jpg</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/Skilvul%20asset%20volume%202-03.jpg</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/Skilvul%20asset%20volume%202-04.jpg</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/Skilvul%20asset%20volume%202-02.jpg</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/Skilvul%20asset%20volume%202-06.jpg</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/git-dan-github-dasar-1631259937188.png</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/python-dasar-1646721732328.png</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/python-lanjutan-1646721793956.png</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/algorithm-and-data-structures-with-python-1646721923628.png</item>
+        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/animasi-dasar-3d-1667270381527.png</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item>Kelas Intro to Coding dibuat untuk kamu yang ingin mempelajari dasar pemrograman dan sebagai salah satu kelas untuk persiapan mengikuti coding bootcamp.</item>
+        <item>Di kelas ini, kita akan belajar bagaimana membuat sebuah website dari awal dengan menggunakan HTML. Dengan HTML, kita bisa membuat struktur dan kerangka sebuah website yang terdiri dari beberapa element. HTML juga berfungsi sebagai penampil konten pada website kita.</item>
+        <item>Di kelas ini kita akan belajar bagaimana cara memberikan style pada setiap element di website dengan menggunakan CSS, seperti memberikan warna pada element, memposisikan element, memberikan gambar background, membuat tampilan menjadi responsif, dan lain sebagainya. Dengan CSS, website kita akan menjadi lebih cantik, menarik, dan konten di dalamnya akan lebih mudah dipahami oleh pengguna.</item>
+        <item>Di kelas ini kita akan belajar bagaimana membuat sebuah website menjadi lebih interaktif dengan menambahkan beberapa program yang ditulis menggunakan JavaScript. Dengan JavaScript, kita bisa membuat suatu website untuk mengolah data, menampilkan data, membuat element-element pada website menjadi lebih komunikatif, dan lain sebagainya, sehingga sebuah website bisa ‘berinteraksi’ dengan pengguna.</item>
+        <item>Pada kelas JavaScript Intermediate ini, kamu akan mendalami materi lanjutan dari kelas JavaScript Dasar. JavaScript Intermediate banyak membahas topik-topik penting yang pastinya akan bisa langsung diimplementasikan pada proyek aplikasi kamu.</item>
+        <item><![CDATA[Pernahkah kamu membayangkan bagaimana para programmer berkolaborasi untuk mengerjakan sebuah aplikasi? Ya, tidak lain adalah dengan menggunakan tools Git & GitHub!
+        Git adalah salah satu tools yang wajib dikuasai oleh para programmer. Git merupakan version control system yang digunakan untuk menyimpan, tracking, dan me-manage perubahan pada code yang kita buat saat mengembangkan suatu aplikasi.
+        Pada kelas ini kamu akan mempelajari basic workflow dan fitur utama dari Git serta mempelajari bagaimana para programmer berkolaborasi menggunakan GitHub.]]></item>
+        <item>Python adalah bahasa pemrograman yang sangat populer. Python sangat cocok untuk kamu yang baru pertama kali ingin mempelajari pemrograman karena Python merupakan bahasa pemrograman yang mudah dipelajari dan dipahami. Pada kelas ini kamu akan mempelajari dasar dari Python. </item>
+        <item>Sudah menguasai dasar dari Python? Kelas ini akan meningkatkan skills Python kamu ke level selanjutnya. Kelas ini akan membuat kamu mampu menggunakan Python dengan lebih clean, efesien, dan lebih terstruktur. Kamu akan mempelajari lebih dalam lagi teknik yang ada pada bahasa pemrograman Python.</item>
+        <item>Pada setiap aplikasi ada 2 hal yang menjadi dasar yang sangat krusial yaitu Data dan Algoritma. Algoritma mengelola data agar program dapat dengan efektif mengguankannya. Tidak dapat dipisahkan, kita perlu mempelajari struktur data agar algoritma mampu mengelola, memaksimalkan, dan membaca data dengan cepat.</item>
+        <item>Animasi adalah wadah media informasi yang bersifat visual, sehingga harus dikemas dengan beberapa elemen atau prinsip, agar informasi yang dimuat dapat tersampaikan dengan baik dan menarik. Pada kelas ini, kamu diajak untuk mengenal apa itu animasi, dengan apa kamu bisa membuat animasi, dan juga elemen atau prinsip apa saja yang diperlukan dalam membuat animasi. Di akhir kelas, kamu juga akan diajak untuk membuat demo reel yang dapat kamu gunakan sebagai portofolio untuk meneruskan karir di bidang 3D Animation.</item>
+
+    </string-array>
+</resources>

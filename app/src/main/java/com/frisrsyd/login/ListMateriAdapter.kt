@@ -29,7 +29,6 @@ class ListMateriAdapter (private val listMateri: ArrayList<Materi>) : RecyclerVi
         holder.tvStatus.text = status
         holder.tvLevel.text = level
         holder.tvChapters.text = chapters
-//        holder.imgPhoto.setImageResource(img)
         Glide.with(holder.itemView.context).load(img).into(holder.imgPhoto)
         holder.itemView.setOnClickListener {
             onItemClickCallback.onItemClicked(listMateri[holder.adapterPosition])

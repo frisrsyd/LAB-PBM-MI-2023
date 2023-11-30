@@ -35,11 +35,14 @@ class MainActivity : AppCompatActivity() {
                             startActivity(intent)
                             finish()
                         }
+                        .addOnFailureListener() {
+                            Toast.makeText(this, "Login Gagal " + it.message.toString(), Toast.LENGTH_SHORT).show()
+                        }
                 } else {
                     binding.password.error = "Password tidak boleh kosong"
                 }
             }else {
-                binding.username.error = "Email tidak boleh kosong"
+                binding.username.error = "Email tidak boleh kosong atau email tidak valid"
             }
         })
 

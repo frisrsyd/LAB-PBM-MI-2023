@@ -71,25 +71,16 @@
         <item>6 Modul</item>
     </string-array>
     <string-array name="data_img">
-<item>https://skilvul-prod-01.s3.ap-southeast-
-1.amazonaws.com/course/intro-to-coding-1626243909763.jpg</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast-
-1.amazonaws.com/course/Skilvul%20asset%20volume%202-03.jpg</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast-
-1.amazonaws.com/course/Skilvul%20asset%20volume%202-04.jpg</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast-
-1.amazonaws.com/course/Skilvul%20asset%20volume%202-02.jpg</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast-
-1.amazonaws.com/course/Skilvul%20asset%20volume%202-06.jpg</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/course/gitdan-github-dasar-1631259937188.png</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast-
-1.amazonaws.com/course/python-dasar-1646721732328.png</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast-
-1.amazonaws.com/course/python-lanjutan-1646721793956.png</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast-
-1.amazonaws.com/course/algorithm-and-data-structures-with-python-
-1646721923628.png</item>
-        <item>https://skilvul-prod-01.s3.ap-southeast1.amazonaws.com/course/animasi-dasar-3d-1667270381527.png</item>
+        <item>https://assets.skilvul.com/course/intro-to-coding-1626243909763.jpg</item>
+        <item>https://assets.skilvul.com/course/Skilvul%20asset%20volume%202-03.jpg</item>
+        <item>https://assets.skilvul.com/course/Skilvul%20asset%20volume%202-04.jpg</item>
+        <item>https://assets.skilvul.com/course/Skilvul%20asset%20volume%202-02.jpg</item>
+        <item>https://assets.skilvul.com/course/Skilvul%20asset%20volume%202-06.jpg</item>
+        <item>https://assets.skilvul.com/course/git-dan-github-dasar-1631259937188.png</item>
+        <item>https://assets.skilvul.com/course/python-dasar-1646721732328.png</item>
+        <item>https://assets.skilvul.com/course/python-lanjutan-1646721793956.png</item>
+        <item>https://assets.skilvul.com/course/algorithm-and-data-structures-with-python-1646721923628.png</item>
+        <item>https://assets.skilvul.com/course/animasi-dasar-3d-1667270381527.png</item>
     </string-array>
     <string-array name="data_desc">
 <item>Kelas Intro to Coding dibuat untuk kamu yang ingin mempelajari

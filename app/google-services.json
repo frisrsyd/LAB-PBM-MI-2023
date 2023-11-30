@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961466402924",
+    "project_id": "account-app-pbm-2023",
+    "storage_bucket": "account-app-pbm-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961466402924:android:bc7b4f447df87d44c1b049",
+        "android_client_info": {
+          "package_name": "com.frisrsyd.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRLTTzKRZukDtssNAPOfQER2TzBMZVk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
